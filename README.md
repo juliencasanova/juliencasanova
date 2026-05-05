@@ -1,4 +1,4 @@
-# Julien Casanova - Développeur IA Freelance & Chatbots sur mesure 👋
+# Julien Casanova - Développeur IA Freelance & Création d'Agents IA sur mesure 👋
 
 ### Développeur Full-Stack | Automatisation IA | Ex-CTO (20 ans d'XP)
 
